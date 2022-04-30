@@ -1,7 +1,7 @@
 ﻿using System;
-namespace NLayer.Core
+namespace NLayer.Core.Models
 {
-	//Metod içerisindeki field ve metodların default erişim belirteci private
+	//Class içerisindeki field ve metodların default erişim belirteci private
 	//Class'ların ise internal'dır
 	public class Product : BaseEntity
 	{
