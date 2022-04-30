@@ -1,0 +1,12 @@
+/Users/mervegulay/Projects/NLayerApp/NLayer.Cache/bin/Debug/net6.0/NLayer.Cache.deps.json
+/Users/mervegulay/Projects/NLayerApp/NLayer.Cache/bin/Debug/net6.0/NLayer.Cache.dll
+/Users/mervegulay/Projects/NLayerApp/NLayer.Cache/bin/Debug/net6.0/NLayer.Cache.pdb
+/Users/mervegulay/Projects/NLayerApp/NLayer.Cache/obj/Debug/net6.0/NLayer.Cache.csproj.AssemblyReference.cache
+/Users/mervegulay/Projects/NLayerApp/NLayer.Cache/obj/Debug/net6.0/NLayer.Cache.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mervegulay/Projects/NLayerApp/NLayer.Cache/obj/Debug/net6.0/NLayer.Cache.AssemblyInfoInputs.cache
+/Users/mervegulay/Projects/NLayerApp/NLayer.Cache/obj/Debug/net6.0/NLayer.Cache.AssemblyInfo.cs
+/Users/mervegulay/Projects/NLayerApp/NLayer.Cache/obj/Debug/net6.0/NLayer.Cache.csproj.CoreCompileInputs.cache
+/Users/mervegulay/Projects/NLayerApp/NLayer.Cache/obj/Debug/net6.0/NLayer.Cache.dll
+/Users/mervegulay/Projects/NLayerApp/NLayer.Cache/obj/Debug/net6.0/refint/NLayer.Cache.dll
+/Users/mervegulay/Projects/NLayerApp/NLayer.Cache/obj/Debug/net6.0/NLayer.Cache.pdb
+/Users/mervegulay/Projects/NLayerApp/NLayer.Cache/obj/Debug/net6.0/ref/NLayer.Cache.dll
